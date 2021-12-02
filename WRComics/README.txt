@@ -1,0 +1,1 @@
+This folder contains Axure project and Android Studio project
